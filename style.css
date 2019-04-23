@@ -26,3 +26,7 @@
     align-items: center;
     justify-content: center;
 }
+.content{
+    background-image: url(img/fon.jpg);
+    height: 470px;
+}
